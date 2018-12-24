@@ -1,2 +1,2 @@
 # l-c--
-This is a trail no. 1
+This is a trial no. 1
